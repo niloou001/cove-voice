@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.log.*
+*.wav
+*.mp3
+*.zip
+vosk-model*/
+.env
